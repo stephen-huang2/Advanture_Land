@@ -20,7 +20,8 @@ Name: Adventure Land
 Task
 
 # Syed
-
+- Orgenize code
 
 # Stephen
-Fill
+- Fill in all paper work
+- Create inventeoy system
